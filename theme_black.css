@@ -1,0 +1,17 @@
+BODY{background-color:#000}
+#menubar DL,#imageToolBar,.header_notes {background-color:#000}
+.logcontener{-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none}
+BODY,H1,H3,INPUT.rateButtonSelected,H2,#menubar DT{color:#fff}
+A,INPUT.rateButton{color:#fff}
+FIELDSET,.content .thumbnailCategory,.thumbnails .wrap2{background-color:#3F3F3F;border:1px solid #696969}
+#nav_wrapper{background:none repeat scroll 0 0 #3f3f3f;border-bottom:1px solid #696969}
+.illustration img{border:1px solid #696969}
+.filter{background-color:#3f3f3f;border-radius:5px 5px 5px 5px;border:1px solid #696969}
+.panel{background:none repeat scroll 0 0 rgba(255, 255, 255, 0.8);color:#4f4f4f}
+.panel a{color:#6f6f6f}
+.panel a:hover{color:#4f4f4f}
+a.trigger{background-color:#3f3f3f}
+a.trigger:hover{background-color:#6f6f6f}
+a.active.trigger{background-color:#6f6f6f}
+#infoBlock,#imageHeaderBar{background:none repeat scroll 0 0 rgba(0, 0, 0, 0.35);border: 1px solid #262626;border-radius:3px;box-shadow:0 1px 3px rgba(0, 0, 0, 0.7)inset,0 1px 0 rgba(0, 0, 0, 0.65),0 2px 0 rgba(255, 255, 255, 0.2)}
+.contenLog{color:#000}

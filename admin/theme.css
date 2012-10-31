@@ -1,0 +1,11 @@
+.ui-slider{color:#383838;border-radius:8px 8px 8px 8px;position:relative;text-align:left;width:600px}
+.ui-slider .ui-slider-handle{border: 1px solid #D7DEF0;background:url("images/bouton_slide.png") repeat-x scroll 50% 50% transparent;font-weight:bold;color:#4C3000;position:absolute;z-index:2;cursor:default;height:26px;width:299px}
+.ui-slider .ui-slider-range{position:absolute;z-index:1}
+.ui-slider-horizontal{height:30px}
+.ui-slider-horizontal .ui-slider-handle{border-radius:8px}
+.ui-slider-horizontal .ui-slider-range{top:0;height:100%}
+.ui-slider-horizontal .ui-slider-range-min{left:0}
+.ui-slider-horizontal .ui-slider-range-max{right:0}
+.switcher input{display:none}
+.switcher {border:2px inset #EFEFEF;border-radius:8px;background:#EDEDED;height:30px;width:900px;color:#000;position:relative;margin-bottom:40px}
+.opt{float:left;border-right:1px solid #FFF;width:299px;height:30px;text-align:center;font-size:20px}
